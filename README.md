@@ -17,7 +17,7 @@ I come from full-stack web development with the MERN stack, and I'm bringing tha
 
 ## Projects
 
-- **[ML Data Preprocessing Pipeline (NumPy)](https://github.com/Faadi4u/ml-ai-engineer-journey/01-numpy/numpy-project)**: reshaping and splitting data, Boolean-mask cleaning, `np.log` and broadcasting, row means and dot products, on synthetic data.
+- **[ML Data Preprocessing Pipeline (NumPy)](https://github.com/Faadi4u/ml-ai-engineer-journey/tree/main/01-numpy/numpy-project)**: reshaping and splitting data, Boolean-mask cleaning, `np.log` and broadcasting, row means and dot products, on synthetic data.
 - **[ml-ai-engineer-journey](https://github.com/Faadi4u/ml-ai-engineer-journey)**: my learning repository, updated at every milestone.
 
 ## Used so far
